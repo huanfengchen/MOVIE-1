@@ -4,10 +4,6 @@ package zhiyou.Price;
  * Created by zhiyou on 14-12-6.
  */
 public class ChangXiaoPrice extends Prace {
-//    @Override
-//    public int getPrace() {
-//        return 0;
-//    }
 
     @Override
     public double getCharge(int daysRented) {

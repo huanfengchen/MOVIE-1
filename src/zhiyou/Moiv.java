@@ -6,9 +6,9 @@ import zhiyou.Price.Prace;
  * Created by zhiyou on 14-12-1.
  */
 public class Moiv {
-    public static final int CHILDRENS = 2;//设置警它常量来表示不同的影片
-    public static final int REGULAR = 0;
-    public  static final int NEW_RELEASE = 1;
+//    public static final int CHILDRENS = 2;//设置警它常量来表示不同的影片
+//    public static final int REGULAR = 0;
+//    public  static final int NEW_RELEASE = 1;
 
 
     private String moveName;
